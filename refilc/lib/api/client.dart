@@ -34,7 +34,7 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 
 class FilcAPI {
   // base url
-  static const baseUrl = "https://api.refilcapp.hu";
+  static const baseUrl = "https://kretaapi.spitkov.hu";
 
   // unused schools list
   static const schoolList = "https://api.refilcapp.hu/v3/public/school-list";
